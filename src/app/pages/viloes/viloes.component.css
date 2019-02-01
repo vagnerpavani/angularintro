@@ -1,0 +1,7 @@
+img{
+    display: inline-block;
+    border-radius:50%;
+    height: 50vh;
+    width: auto;
+    margin-left: 5vw;
+}
